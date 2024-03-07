@@ -2,7 +2,7 @@
   background-color: #F8F9FB;
   color: #4C5A6D;
   text-align: center;
-  height: 100vh;
+  height: 100%;
 }
 
 .logo{
@@ -24,4 +24,32 @@
 
 .MyNav{
   padding: 1rem 2rem;
+}
+
+.draw{
+  z-index: -1;
+}
+
+.center{
+  z-index: 0;
+  margin: -50px auto 0 auto;
+  width: 80%;
+}
+
+.img{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.lati{
+  z-index: 1;
+  margin-top: -650px;
+}
+
+.sx, .dx{
+  width: 40%;
+}
+
+.gradient{
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgb(255, 77, 77) 63%);
 }
