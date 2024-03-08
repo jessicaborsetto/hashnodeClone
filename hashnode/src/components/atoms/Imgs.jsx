@@ -7,7 +7,8 @@ import fourth from "C:/Users/Jessica/Desktop/hashnodeClone/hashnode/src/assets/f
 function Imgs() {
     return (
        
-            <div className="container mx-auto ">
+        <>
+            <div className="container mx-auto">
                 <div >
                     <div className="img">
                         <img src={third} alt="" className="draw" />
@@ -26,9 +27,9 @@ function Imgs() {
                         <img src={fourth} alt="" />
                     </div>
                 </div>
-
-
             </div>
+
+            </>
        
     )
 }
