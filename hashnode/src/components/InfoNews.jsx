@@ -14,20 +14,20 @@ function InfoNews() {
                             {/* <img src={one} alt="" /> */}
                         </div>
                         <div className="text-left p-10 grid place-content-center">
-                            <h3 className="text-xl font-bold text-slate-800 ">Super-fast and SEO-optimized blogs built for developers and tech enthusiasts.</h3>
-                            <p className="text-md font-md text-slate-500 ">Hashnode blogs are fast, up-to-date with SEO techniques, and score above 90 on all Lighthouse parameters. They're simple, elegant, and user-friendly.</p>
+                            <h3 className="text-xl font-bold text-slate-800 ">Transform your readers into devoted fans.</h3>
+                            <p className="text-md font-md text-slate-500 ">Capture readers' email addresses easily with Hashnode's built-in newsletter feature. The subscription form appears on your blog homepage and below every article.</p>
                         </div>
                        
                     </div>
 
                 </div>
 
-                <div className="grid grid-cols-2 gap-10">
+                <div className="grid grid-cols-2 gap-10 ">
                     <div className="bg-slate-100 rounded-3xl border-slate-200 leading-7">
                         <div className="grid place-content-center">
                             <div className="text-left p-10 grid place-content-center">
-                                <h3 className="text-xl font-bold text-slate-800 ">Transform your readers into devoted fans.</h3>
-                                <p className="text-md font-md text-slate-500 ">Capture readers' email addresses easily with Hashnode's built-in newsletter feature. The subscription form appears on your blog homepage and below every article.</p>
+                                <h3 className="text-xl font-bold text-slate-800 ">Advanced subscribers management.</h3>
+                                <p className="text-md font-md text-slate-500 ">Manage your subscribers like a pro with our easy-to-use dashboard. Import and delete subscribers anytime, hassle-free.</p>
                             </div>
                             <div className="px-10">
                                 <img src={first} alt="" />
