@@ -3,6 +3,7 @@ import Imgs from "../components/atoms/Imgs"
 import Brands from "../components/atoms/Brands"
 import Info from "../components/Info"
 import News from "../components/News"
+import InfoNews from "../components/InfoNews"
 
 function Home() {
     return (
@@ -19,6 +20,7 @@ function Home() {
                 <Brands></Brands>
                 <Info></Info>
                 <News></News>
+                <InfoNews></InfoNews>
             </div>
 
 
