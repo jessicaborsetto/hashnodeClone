@@ -64,3 +64,7 @@
   height: 50%;
   overflow:hidden;
 }
+
+.cardGradient{
+  background: linear-gradient(155deg, rgba(1,12,41,1) 24%, rgba(19,25,52,1) 41%);
+}

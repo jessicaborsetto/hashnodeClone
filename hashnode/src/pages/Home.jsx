@@ -4,6 +4,7 @@ import Brands from "../components/atoms/Brands"
 import Info from "../components/Info"
 import News from "../components/News"
 import InfoNews from "../components/InfoNews"
+import Rating from "../components/Rating"
 
 function Home() {
     return (
@@ -21,6 +22,10 @@ function Home() {
                 <Info></Info>
                 <News></News>
                 <InfoNews></InfoNews>
+            </div>
+            <div className="bg-black p-32">
+                <Rating></Rating>
+
             </div>
 
 
