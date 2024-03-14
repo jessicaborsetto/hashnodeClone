@@ -5,6 +5,7 @@ import Info from "../components/Info"
 import News from "../components/News"
 import InfoNews from "../components/InfoNews"
 import Rating from "../components/Rating"
+import Teams from "../components/Teams"
 
 function Home() {
     return (
@@ -29,6 +30,8 @@ function Home() {
                 <Rating></Rating>
             </div>
             
+            <Teams></Teams>
+
 
 
         </>
