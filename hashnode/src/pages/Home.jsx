@@ -23,10 +23,12 @@ function Home() {
                 <News></News>
                 <InfoNews></InfoNews>
             </div>
-            <div className="bg-black p-32">
-                <Rating></Rating>
+            
+            <div className="bg-black">
 
+                <Rating></Rating>
             </div>
+            
 
 
         </>
